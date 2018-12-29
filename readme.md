@@ -2,9 +2,9 @@
 
 ## Quck Installation
 
-    git clone https://github.com/laravel/quickstart-basic quickstart
+    git clone https://github.com/Vijay-Gridle/api.git
 
-    cd quickstart
+    cd api
 
     composer install
 
