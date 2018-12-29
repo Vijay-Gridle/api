@@ -1,6 +1,6 @@
-# Laravel Quickstart - Basic
+# Laravel API 
 
-## Quck Installation
+## Quick Installation
 
     git clone https://github.com/Vijay-Gridle/api.git
 
